@@ -1,11 +1,6 @@
 ---
 name: ux-requirement-review
-description: >-
-  UX Requirement Review / 用户体验需求评估. Bilingual Agent Skill for helping UX
-  researchers, product managers and designers reason about requirements,
-  actual user tasks, experience frictions, assumptions and evidence limits.
-  面向用研、产品与设计角色的轻量需求合理性分析及用户体验知识辅助。
-  Not empirical validation, formal approval or project execution.
+description: UX Requirement Review / 用户体验需求评估. Bilingual Agent Skill for helping UX researchers, product managers and designers reason about requirements, actual user tasks, experience frictions, assumptions and evidence limits. 面向用研、产品与设计角色的轻量需求合理性分析及用户体验知识辅助。 Not empirical validation, formal approval or project execution.
 license: MIT
 metadata:
   version: "0.6.0-preview.5"
